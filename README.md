@@ -50,18 +50,6 @@ Também participo de projetos **open source** e **ações sociais** na **Ordem D
 
 ---
 
-## 🧩 Projetos em Destaque
-
-### 🔐 [WHIP – World Human Identity Protector](https://github.com/RafaelColares01/WHIP)
-Aplicação web em **HTML, CSS e JavaScript**, com **armazenamento LocalStorage**, voltada à  
-**proteção de credenciais e prevenção de ataques cibernéticos**, desenvolvida sob metodologia **Scrum**.  
-
-### 📊 Análises e Automação em SQL & Java
-Scripts e programas para **organização, ordenação e extração de dados**,  
-com foco em **eficiência, desempenho e boas práticas de código**.
-
----
-
 ## 💼 Experiência Profissional
 
 ### Prefeitura de Belo Horizonte — *Estágio em Análise de Dados*  
