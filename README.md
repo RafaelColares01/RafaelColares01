@@ -38,7 +38,7 @@ Também participo de projetos **open source** e **ações sociais** na **Ordem D
 | 🧩 **Outros Conhecimentos** | Montagem/manutenção de PCs, Microsoft Office |
 
 🗣️ **Idiomas:**  
-🇧🇷 Português (Nativo) | 🇬🇧 Inglês (Avançado)
+🇧🇷 Português (Nativo) | 🇺🇸 Inglês (Avançado)
 
 ---
 
